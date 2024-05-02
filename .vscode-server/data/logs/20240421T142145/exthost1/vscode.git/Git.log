@@ -1,0 +1,33 @@
+2024-04-21 14:21:49.314 [info] Log level: Info
+2024-04-21 14:21:49.314 [info] Validating found git in: "git"
+2024-04-21 14:21:49.314 [info] Using git "2.34.1" from "git"
+2024-04-21 14:21:49.314 [info] > git rev-parse --show-toplevel [107ms]
+2024-04-21 14:21:49.314 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-04-21 14:21:49.314 [info] > git rev-parse --show-toplevel [10ms]
+2024-04-21 14:21:49.314 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-04-21 14:21:52.335 [info] > git rev-parse --show-toplevel [3ms]
+2024-04-21 14:21:52.335 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-04-24 22:41:22.874 [info] > git rev-parse --show-toplevel [8ms]
+2024-04-24 22:41:22.901 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-04-24 22:41:23.023 [info] Open repository: /home/wdrb1495
+2024-04-24 22:41:23.075 [info] No remotes found in the git config file.
+2024-04-24 22:41:23.082 [info] > git config --get commit.template [24ms]
+2024-04-24 22:41:23.086 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2024-04-24 22:41:23.090 [warning] No such branch: master.
+2024-04-24 22:41:23.472 [info] > git status -z -uall [373ms]
+2024-04-24 22:41:25.875 [info] > git config --get commit.template [112ms]
+2024-04-24 22:41:25.901 [info] No remotes found in the git config file.
+2024-04-24 22:41:25.911 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2024-04-24 22:41:25.912 [warning] No such branch: master.
+2024-04-24 22:41:25.993 [info] > git status -z -uall [66ms]
+2024-04-24 22:42:22.678 [info] > git check-ignore -v -z --stdin [12ms]
+2024-04-24 22:43:22.261 [info] > git show --textconv :web.html [19ms]
+2024-04-24 22:43:22.263 [info] > git ls-files --stage -- /home/wdrb1495/web.html [5ms]
+2024-04-24 22:43:22.282 [info] > git cat-file -s e0c608892ada392f83f5f8ac3da65aa5350a9d3c [8ms]
+2024-04-24 23:04:16.752 [info] > git config --get commit.template [1ms]
+2024-04-24 23:04:16.774 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-04-24 23:04:16.827 [info] > git ls-files --stage -- /home/wdrb1495/web.html [2ms]
+2024-04-24 23:04:16.851 [info] > git cat-file -s e0c608892ada392f83f5f8ac3da65aa5350a9d3c [2ms]
+2024-04-24 23:04:16.885 [info] > git show --textconv :web.html [2ms]
+2024-04-24 23:04:16.924 [info] > git status -z -uall [121ms]
+2024-04-24 23:12:38.595 [info] > git check-ignore -v -z --stdin [4ms]

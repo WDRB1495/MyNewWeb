@@ -1,0 +1,21 @@
+2024-04-20 17:04:58.854 [info] 
+
+
+
+
+2024-04-20 17:04:58.878 [info] Extension host agent started.
+2024-04-20 17:04:59.272 [info] [127.0.0.1][92e3a65a][ManagementConnection] New connection established.
+2024-04-20 17:04:59.997 [info] [127.0.0.1][b3aa7119][ExtensionHostConnection] New connection established.
+2024-04-20 17:05:00.030 [info] [127.0.0.1][b3aa7119][ExtensionHostConnection] <32307> Launched Extension Host Process.
+2024-04-20 17:05:14.445 [info] [127.0.0.1][b3aa7119][ExtensionHostConnection] <32307> [0mGET /favicon.ico [33m404[0m 2.684 ms - 150[0m
+
+2024-04-20 17:09:51.049 [info] [127.0.0.1][92e3a65a][ManagementConnection] The client has reconnected.
+2024-04-20 17:09:51.320 [info] [127.0.0.1][b3aa7119][ExtensionHostConnection] The client has reconnected.
+2024-04-20 18:07:05.147 [info] [127.0.0.1][b3aa7119][ExtensionHostConnection] The client has reconnected.
+2024-04-20 18:21:22.384 [info] [127.0.0.1][92e3a65a][ManagementConnection] The client has reconnected.
+2024-04-20 18:23:25.689 [info] [127.0.0.1][92e3a65a][ManagementConnection] The client has reconnected.
+2024-04-20 18:23:26.310 [info] [127.0.0.1][b3aa7119][ExtensionHostConnection] The client has reconnected.
+2024-04-20 19:43:01.462 [info] [127.0.0.1][b3aa7119][ExtensionHostConnection] The client has reconnected.
+2024-04-20 19:43:01.978 [info] [127.0.0.1][92e3a65a][ManagementConnection] The client has reconnected.
+2024-04-21 12:45:45.212 [info] [127.0.0.1][b3aa7119][ExtensionHostConnection] The client has reconnected.
+2024-04-21 12:45:46.324 [info] [127.0.0.1][92e3a65a][ManagementConnection] The client has reconnected.

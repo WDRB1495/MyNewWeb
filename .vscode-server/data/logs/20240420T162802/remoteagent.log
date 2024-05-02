@@ -1,0 +1,13 @@
+2024-04-20 16:28:02.767 [info] 
+
+
+
+
+2024-04-20 16:28:02.767 [info] Extension host agent started.
+2024-04-20 16:28:02.767 [info] Started initializing default profile extensions in extensions installation folder. file:///home/wdrb1495/.vscode-server/extensions
+2024-04-20 16:28:02.796 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/wdrb1495/.vscode-server/extensions
+2024-04-20 16:28:02.830 [info] [127.0.0.1][c3da364e][ManagementConnection] New connection established.
+2024-04-20 16:28:03.665 [info] [127.0.0.1][0edcdc24][ExtensionHostConnection] New connection established.
+2024-04-20 16:28:03.673 [info] [127.0.0.1][0edcdc24][ExtensionHostConnection] <16257> Launched Extension Host Process.
+2024-04-20 16:56:27.501 [info] [127.0.0.1][c3da364e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-04-20 16:56:27.736 [info] [127.0.0.1][0edcdc24][ExtensionHostConnection] <16257> Extension Host Process exited with code: 0, signal: null.

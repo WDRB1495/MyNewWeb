@@ -1,0 +1,38 @@
+2024-04-20 16:56:50.405 [info] 
+
+
+
+
+2024-04-20 16:56:50.435 [info] Extension host agent started.
+2024-04-20 16:56:50.704 [info] [127.0.0.1][fadcfb5d][ManagementConnection] New connection established.
+2024-04-20 16:56:52.751 [info] [127.0.0.1][0be693ee][ExtensionHostConnection] New connection established.
+2024-04-20 16:56:52.760 [info] [127.0.0.1][0be693ee][ExtensionHostConnection] <28370> Launched Extension Host Process.
+2024-04-20 16:58:31.987 [info] [127.0.0.1][fadcfb5d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-04-20 16:58:32.104 [info] [127.0.0.1][0be693ee][ExtensionHostConnection] <28370> Extension Host Process exited with code: 0, signal: null.
+2024-04-20 16:58:34.947 [info] [127.0.0.1][99a4af77][ManagementConnection] New connection established.
+2024-04-20 16:58:35.791 [info] [127.0.0.1][c00bdd1a][ExtensionHostConnection] New connection established.
+2024-04-20 16:58:35.840 [info] [127.0.0.1][c00bdd1a][ExtensionHostConnection] <29191> Launched Extension Host Process.
+2024-04-20 16:59:02.444 [info] [127.0.0.1][99a4af77][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-04-20 16:59:02.515 [info] [127.0.0.1][c00bdd1a][ExtensionHostConnection] <29191> Extension Host Process exited with code: 0, signal: null.
+2024-04-20 16:59:04.449 [info] [127.0.0.1][d55950e7][ManagementConnection] New connection established.
+2024-04-20 16:59:05.033 [info] [127.0.0.1][458b7674][ExtensionHostConnection] New connection established.
+2024-04-20 16:59:05.051 [info] [127.0.0.1][458b7674][ExtensionHostConnection] <29463> Launched Extension Host Process.
+2024-04-20 16:59:12.583 [info] [127.0.0.1][d55950e7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-04-20 16:59:12.708 [info] [127.0.0.1][458b7674][ExtensionHostConnection] <29463> Extension Host Process exited with code: 0, signal: null.
+2024-04-20 16:59:14.789 [info] [127.0.0.1][4138aa52][ManagementConnection] New connection established.
+2024-04-20 16:59:15.528 [info] [127.0.0.1][58c315d9][ExtensionHostConnection] New connection established.
+2024-04-20 16:59:15.541 [info] [127.0.0.1][58c315d9][ExtensionHostConnection] <29653> Launched Extension Host Process.
+2024-04-20 16:59:55.836 [info] [127.0.0.1][4138aa52][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-04-20 16:59:55.917 [info] [127.0.0.1][58c315d9][ExtensionHostConnection] <29653> Extension Host Process exited with code: 0, signal: null.
+2024-04-20 16:59:58.278 [info] [127.0.0.1][184f6bea][ManagementConnection] New connection established.
+2024-04-20 16:59:58.888 [info] [127.0.0.1][09c66ab7][ExtensionHostConnection] New connection established.
+2024-04-20 16:59:58.902 [info] [127.0.0.1][09c66ab7][ExtensionHostConnection] <30020> Launched Extension Host Process.
+2024-04-20 17:03:42.814 [info] Getting Manifest... ritwickdey.liveserver
+2024-04-20 17:03:42.974 [info] Installing extension: ritwickdey.liveserver
+2024-04-20 17:03:46.612 [info] Extension signature is verified: ritwickdey.liveserver
+2024-04-20 17:03:52.698 [info] Extracted extension to file:///home/wdrb1495/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-04-20 17:03:52.714 [info] Renamed to /home/wdrb1495/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2024-04-20 17:03:52.720 [info] Extracting extension completed. ritwickdey.liveserver
+2024-04-20 17:03:52.730 [info] Extension installed successfully: ritwickdey.liveserver
+2024-04-20 17:04:45.102 [info] [127.0.0.1][184f6bea][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-04-20 17:04:45.311 [info] [127.0.0.1][09c66ab7][ExtensionHostConnection] <30020> Extension Host Process exited with code: 0, signal: null.

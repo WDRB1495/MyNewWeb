@@ -1,0 +1,23 @@
+2024-04-21 14:21:45.429 [info] 
+
+
+
+
+2024-04-21 14:21:45.505 [info] Extension host agent started.
+2024-04-21 14:21:45.963 [info] [127.0.0.1][d565300f][ManagementConnection] New connection established.
+2024-04-21 14:21:47.320 [info] [127.0.0.1][52fdf2ed][ExtensionHostConnection] New connection established.
+2024-04-21 14:21:47.331 [info] [127.0.0.1][52fdf2ed][ExtensionHostConnection] <4945> Launched Extension Host Process.
+2024-04-22 22:19:56.802 [info] [127.0.0.1][52fdf2ed][ExtensionHostConnection] The client has reconnected.
+2024-04-22 22:19:56.944 [info] [127.0.0.1][d565300f][ManagementConnection] The client has reconnected.
+2024-04-22 23:25:22.389 [info] [127.0.0.1][d565300f][ManagementConnection] The client has reconnected.
+2024-04-22 23:25:22.879 [info] [127.0.0.1][52fdf2ed][ExtensionHostConnection] The client has reconnected.
+2024-04-22 23:25:28.285 [info] [127.0.0.1][d565300f][ManagementConnection] The client has reconnected.
+2024-04-22 23:25:28.575 [info] [127.0.0.1][52fdf2ed][ExtensionHostConnection] The client has reconnected.
+2024-04-22 23:26:14.670 [info] [127.0.0.1][52fdf2ed][ExtensionHostConnection] The client has reconnected.
+2024-04-22 23:26:15.367 [info] [127.0.0.1][d565300f][ManagementConnection] The client has reconnected.
+2024-04-22 23:26:20.207 [info] [127.0.0.1][52fdf2ed][ExtensionHostConnection] The client has reconnected.
+2024-04-22 23:26:20.571 [info] [127.0.0.1][d565300f][ManagementConnection] The client has reconnected.
+2024-04-24 22:26:47.577 [info] [127.0.0.1][52fdf2ed][ExtensionHostConnection] The client has reconnected.
+2024-04-24 22:26:48.208 [info] [127.0.0.1][d565300f][ManagementConnection] The client has reconnected.
+2024-04-24 22:33:50.121 [info] [127.0.0.1][d565300f][ManagementConnection] The client has reconnected.
+2024-04-24 22:33:50.474 [info] [127.0.0.1][52fdf2ed][ExtensionHostConnection] The client has reconnected.
